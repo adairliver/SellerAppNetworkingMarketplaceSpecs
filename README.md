@@ -1,0 +1,2 @@
+# SellerAppNetworkingMiraklSpecs-
+Specs de SellerAppNetworkingMiraklSpecs 
