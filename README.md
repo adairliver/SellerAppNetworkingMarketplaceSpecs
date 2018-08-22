@@ -1,2 +1,2 @@
-# SellerAppNetworkingMarketplaceSpecs-
+# SellerAppNetworkingMarketplaceSpecs
 Specs de SellerAppNetworkingMarketplaceSpecs 
